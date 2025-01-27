@@ -1,0 +1,13 @@
+marco-o1:latest
+smollm2:135m
+qwen2.5-coder:14b
+qwen2.5-coder:0.5b
+qwen2.5-coder:32b
+mistral-small:latest
+nemotron-mini:latest
+llama3.1:70b
+gemma2:latest
+llama3.1:latest
+llava:latest
+mixtral:latest
+llama3:latest

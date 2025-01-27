@@ -1,0 +1,122 @@
+ARTIGOS
+
+1) Costa, C. S. B. C., Helena Reali Costa, A.POE: A General Portfolio Optimization Environment for FinRL. . In:ANAIS DO BRAZILIAN WORKSHOP ON ARTIFICIAL INTELLIGENCE IN FINANCE (BWAIF) - 2023. DOI:https://doi.org/10.5753/bwaif.2023.231144
+
+2) Marino Moreno, F, Fialho Coelho, J, Sproesser Mathias, M, Rodrigues de Barros, M, Fabricio Deberaldini Netto, C, Palmiro de Freitas, L, Dottori, M, Gagliardi Cozman, F, Helena Reali Costa, A, Satoshi Gomi, E, & Aoun Tannuri, E. Echo State Networks for Surface Current Forecasting in a Port Access Channel. . In:Proceedings of the ASME 2023 42nd International Conference on Ocean, Offshore and Arctic Engineering. Volume 5: Ocean Engineering. Melbourne, Australia. June 11–16, 2023. V005T06A056. ASME. DOI:https://doi.org/10.1115/OMAE2023-103265
+
+3) Sproesser Mathias, M, Deberaldini Netto, CF, Marino Moreno, F, Fialho Coelho, J, Palmiro de Freitas, L, Rodrigues de Barros, M, Cardozo de Mello, P, Dottori, M, Gagliardi Cozman, F, Reali Costa, AH, Costa Nogueira Junior, A, Satoshi Gomi, E, & Aoun Tannuri, E. A Physics-Informed Neural Operator for the Simulation of Surface Waves. . In:Proceedings of the ASME 2023 42nd International Conference on Ocean, Offshore and Arctic Engineering. Melbourne, Australia. June 11–16, 2023. V007T08A013. ASME. DOI:https://doi.org/10.1115/OMAE2023-104950
+
+4) Fialho Coelho, J, Rodrigues de Barros, M, Fabricio Deberaldini Netto, C, Marino Moreno, F, Palmiro de Freitas, L, Sproesser Mathias, M, Gagliardi Cozman, F, Dottori, M, Satoshi Gomi, E, Aoun Tannuri, E, & Helena Reali Costa, A. Modeling Oceanic Variables With Graph-Guided Networks for Irregularly Sampled Multivariate Time Series. . In:Proceedings of the ASME 2023 42nd International Conference on Ocean, Offshore and Arctic Engineering. Volume 5: Ocean Engineering. Melbourne, Australia. June 11–16, 2023. V005T06A058. ASME. DOI:https://doi.org/10.1115/OMAE2023-104603
+
+5) SILVA, A. P. S.; ABBADE, L. R.; SULLER, T. M.; GOMES, E.; CUNHA, R.; GOMI, E.; REALI COSTA, A. H. Machine learning for noisy multivariate time series classification: a comparison and practical evaluation . In:ENCONTRO NACIONAL DE INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL (ENIAC), 19. , 2022, Campinas/SP. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2022 . p. 682-693. ISSN 2763-9061. DOI:https://doi.org/10.5753/eniac.2022.227600
+
+6) ZANINI, L. G K; SILVA, A. P. S.; ALMEIDA, F. V.; MARQUES, F. L. S. N.; REALI COSTA, A. H. Convolutional architectures with LSTM and TCN to embolism classification: exploring dependency between data . In:ENCONTRO NACIONAL DE INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL (ENIAC), 19. , 2022, Campinas/SP. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2022 . p. 461-472. ISSN 2763-9061. DOI:https://doi.org/10.5753/eniac.2022.227585
+
+7) SYM, Y. V.; CAMPOS, J. G. M.; JOSÉ, M. M.; COZMAN, F. G. Comparing Computational Architectures for Automated Journalism . In: ENCONTRO NACIONAL DE INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL (ENIAC), 19. , 2022, Campinas/SP. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2022. p. 377-388. ISSN 2763-9061. DOI:https://doi.org/10.5753/eniac.2022.227426
+
+8) DUCCA, S. V.; MARGI, C. B. Performance trade offs in IoT-based traffic monitoring and incident detection systems . In: Symposium on Internet of Things (SIoT), 2022 DOI:https://doi.org/10.1109/SIoT56383.2022.10070171
+
+9) MATHIAS, M. S.; NETTO, C. F. D.; REALI COSTA, A. H.; COZMAN, F. G. Augmenting a Physics-Informed Neural Network for the 2D Burgers Equation by Addition of Solution Data Points . In: BRAZILIAN CONFERENCE ON INTELLIGENT SYSTEMS (BRACIS), 2022
+
+10) PIROZELLI, P.; OLIVEIRA, A. S.; JOSÉ, M. M.; CAÇÃO, F. N.; BRANDÃO, A. A. F.; REALI COSTA, A. H.; MAUÁ, D. D.; COZMAN, F. G.; PERES, S. The BLue Amazon Brain (BLAB): A Modular Architecture of Services about the Brazilian Maritime Territory . In: 31ST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-ECAI), 2022
+
+11) MATHIAS, M. S.; NETTO, C. F. D.; REALI COSTA, A. H.; COZMAN, F. G. A Physics-Informed Neural Network to Model Port Channels . In: 31ST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-ECAI), 2022
+
+12) MORENO F. M.; NETTO, C. F. D.; REALI COSTA, A. H.; COZMAN, F. G. Enhancing Oceanic Variables Forecast in the Santos Channel by Estimating Model Error with Random Forests . In: 31ST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-ECAI), 2022
+
+13) NETTO, C. F. D.; BARROS, M. R.; REALI COSTA, A. H.; COZMAN, F. G. Modeling Oceanic Variables with Dynamic Graph Neural Networks . In: 31ST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-ECAI), 2022
+
+14) CHEANG, R. M.; BRANDÃO, A. A. F.; SICHMAN, J. S. Centralized norm enforcement in mixed-motive multiagent reinforcement learning . In: Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems XV (COINE), 2022 DOI:https://doi.org/10.1007/978-3-031-20845-4_8
+
+15) FELIZARDO, L. K.; PAIVA, F. C. L.; GRAVES, C. V.; MATSUMOTO, E. Y.; REALI COSTA, A. H.; DEL-MORAL-HERNANDEZ, E.; BRANDIMARTE, P. Outperforming algorithmic trading reinforcement learning systems: A supervised approach to the cryptocurrency market . In: Expert Systems with Applications (ESWA), 2022
+
+16) COTRIM, L. P.; JOSÉ, M. M.; CABRAL, E. L. L. Reinforcement Learning Control of Robot Manipulator . In: Revista Brasileira de Computação Aplicada, v. 13, n. 3, p. 42-53, 2021. DOI:https://doi.org/10.5335/rbca.v13i3.12091
+
+17) JOSÉ, M. M.; JOSÉ, M. A.; MAUÁ, D.; COZMAN, F. G. Integrating Question Answering and Text-to-SQL in Portuguese . In: International Conference on Computational Processing of Portuguese (PROPOR), 2022. DOI:https://doi.org/10.48550/arXiv.2202.10221
+
+18) CAÇÃO, F. N.; REALI COSTA, A. H.; Tracking Changes in Environmental Policy in the Brazilian Federal Official Gazette . In: International Conference on Computational Processing of Portuguese (PROPOR), 2022. DOI:https://doi.org/10.48550/arXiv.2202.10221
+
+19) ALCOFORADO, A.; FERRAZ, T. P.; GERBER, R.; BUSTOS, E.; OLIVEIRA, A. S.; VELOSO, B. M.; SIQUEIRA, F. L.; REALI COSTA, A. H. ZeroBERTo - Leveraging Zero-Shot Text Classification by Topic Modeling . In: International Conference on Computational Processing of Portuguese (PROPOR), 2022. DOI:https://doi.org/10.1007/978-3-030-98305-5_12
+
+20) OLIVEIRA, A. S.; REALI COSTA, A. H. PLSUM: Generating PT-BR Wikipedia by Summarizing Multiple Websites . In: ENCONTRO NACIONAL DE INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL (ENIAC), 18. , 2021, Evento Online. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021 . p. 751-762. ISSN 2763-9061. DOI:https://doi.org/10.5753/eniac.2021.18300.
+
+21) SPINDOLA, S.; JOSÉ, M. M.; OLIVEIRA, A. S.; CAÇÃO, F. N.; COZMAN, F. G Interpretability of Attention in a Portuguese-Based Question Answering System about the Blue Amazon . In: ENCONTRO NACIONAL DE INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL (ENIAC), 18. , 2021, Evento Online. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021 . p. 775-786. ISSN 2763-9061. DOI:https://doi.org/10.5753/eniac.2021.18302.
+
+22) NISHIMOTO, B. E.; REALI COSTA, A. H. Slot Sharing Mechanism in Multi-Domain Dialogue Systems. In: BRAZILIAN CONFERENCE ON INTELLIGENT SYSTEMS (BRACIS), 10. , 2021, Online. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021 . ISSN 2643-6264.
+
+23) PAIVA, F. C. L.; FELIZARDO, L. K.; BIANCHI, R. A. C.; REALI COSTA, A. H Intelligent Trading Systems: A Sentiment-Aware Reinforcement Learning Approach. 2nd ACM International Conference on AI in Finance (ICAIF), 2021
+
+24) CAÇÃO, F. N.; JOSÉ, M. M.; OLIVEIRA, A. S.; SPINDOLA, S.; REALI COSTA, A. H.; COZMAN, F. G. DEEPAGÉ: Answering Questions in Portuguese about the Brazilian Environment. In: BRAZILIAN CONFERENCE ON INTELLIGENT SYSTEMS (BRACIS), 10. , 2021, Online. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021 . ISSN 2643-6264.
+
+25) PASCHOAL, A. F. A.; PIROZELLI, P.; FREIRE, V.; DELGADO, K. V.; PERES, S. M.; JOSÉ, M. M.;CAÇÃO, F. N.; OLIVEIRA, A. S. Pirá: A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean. International Conference on Information & Knowledge Management (CIKM), 2021.
+
+26) SILVA, R. F.; BARREIRA, B.; CUGNASCA, C. E. Prediction of corn and sugar prices using machine learning, econometrics, and ensemble models. European Federation for Information Technology in Agriculture, Food and the Environment (EFITA), 2021.
+
+27) ARANDA, R.; SILVA, R. F.; CUGNASCA, C. E. Requirements identification for a blockchain-based traceability model for animal-based medicines. European Federation for Information Technology in Agriculture, Food and the Environment (EFITA), 2021.
+
+28) SINÉZIOS, J.; SILVA, R. F.; BRAZOLIN, S.; CUGNASCA, C. E. Bibliometric review on the use of Internet of Things technologies to monitor the impact of wind on trees and forests. European Federation for Information Technology in Agriculture, Food and the Environment (EFITA), 2021.
+
+29) CHEANG, R. M.; BRANDÃO, A. F.; SICHMAN, J. S. A Brief Overview of Social Dilemmas: From Social Sciences to Multiagent Based Simulations. Workshop-School on Agents, Environments, and Applications (WESAAC), 2021.
+
+30) HASHIMOTO, B. F.; SHIGUEOKA, L. S.; COSTA, V. P.; GOMI, E. S. Treinamento de Classificadores de Aprendizagem de Máquina para o Diagnóstico do Glaucoma com o Uso de Dados de Perimetria Automatizada Padrão (SAP). In: CONCURSO DE TRABALHOS DE INICIAÇÃO CIENTÍFICA - SIMPÓSIO BRASILEIRO DE COMPUTAÇÃO APLICADA À SAÚDE (SBCAS), 21., 2021, Evento Online. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021. p. 151-156.
+
+31) NAKASATO, F. C.; REALI COSTA, A. H.; UNTERSTELL, N.; YONAHA, L.; STEC, T.; ISHISAKI, F. DeepPolicyTracker: Tracking Changes In: Environmental Policy In The Brazilian Federal Official Gazette With Deep Learning. ICML 2021 Workshop, 2021.
+
+32) PAULA, A.; SILVA, R. F.; NISHIMOTO, B. E.; CUGNASCA, C. E.; REALI COSTA, A. H. Answer Selection Using Reinforcement Learning for Complex Question Answering on the Open Domain. In 2021 International Symposium on Electrical, Electronics and Information Engineering (ISEEIE 2021). 2021, pp.271–276. :https://doi.org/10.1145/3459104.3459149
+
+33) POLLETI, G. P.; MUNOZ, H. N.; COZMAN, F. G. Explanations within conversational recommen-dation systems: Improving coverage through knowledge graph embedding. Thirty-Fourth AAAI Conference on Artificial Intelligence Workshop on Interactive and Conversational Recommendation Systems (WICRS), New YorkCity, New York, USA, 2020.
+
+34) PRATA, D.; COZMAN, F. G.; POLLETTI, G. Using AI to Classify Instagram's Dissident Images. In: ICDHS 12th International Conference on Design History and Design Studies., 2020, Croacia. Lessons to Learn: Past Design Experiences and Contemporary Design Practices. Croacia: UPI 2 M Books, 2020. v. 6. p. 695-708.
+
+35) NISHIMOTO, B. E.; REALI COSTA, A. H. Deep Recurrent Q-Learning for Partially Observable Dialog System. The Third Workshop on Reasoning andLearning for Human-Machine Dialogues (DeepDial2020). https://sites.google.com/view/deep-dial2020/program
+
+36) SILVA, R. F.; XAVIER, F.; SARAIVA, A. M.; CUGNASCA, C.E. Unsupervised machine learning and pandemics spread: the case of COVID-19. In: 20 Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS), 2020, Salvador. Anais do 20 Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS), 2020. v. 1.
+
+37) SILVA, R. F.; BARREIRA, B. L.; XAVIER, F.; SARAIVA, A. M. ; CUGNASCA, C.E. Use of econometrics and machine learning models to predict the number of new cases per day of COVID-19. In: 20 Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS), 2020, Salvador. Anais do 20 Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS), 2020. v. 1.
+
+38) BARREIRA, B. L.; SILVA, R. F. ; CUGNASCA, C.E. . An in-depth analysis on the use of long short-term memory networks to predict incidence and prevalence of Covid-19 in Latin America. In: 2020 International Conference on Frontiers of Artificial Intelligence and Machine Learning (FAIML), 2020, Berlin. Proceedings of (2020 International Conference on Frontiers of Artificial Intelligence and Machine Learning, 2020. v. 1.
+
+39) OLIVEIRA, A.; REALI COSTA, A.; HRUSCHKA, E. A Framework for Multi-document Extractive Summarization of Reviews with Aspect-based Sentiment Analysis. In: Anais do XVII Encontro Nacional de Inteligência Artificial e Computacional. SBC, 2020. p. 471-482.
+
+40) CAMACHO, L.; ALVES-SOUZA, S. Identification of Social Influence on Social Networks and Its Use in Recommender Systems: A Systematic Review. In: Proceedings of the 9th International Conference on Data Science, Technology and Applications - Volume 1: DATA, ISBN 978-989-758-440-4, pages 234-241, 2020.
+
+41) NETTO, C. D.; TANNURI, E.; MAUÁ, D.; COZMAN, F. G. Prediction of Environmental Conditions for Maritime Navigation using a Network of Sensors: A Practical Application of Graph Neural Networks. In: SYMPOSIUM ON KNOWLEDGE DISCOVERY, MINING AND LEARNING (KDMILE), 8., 2020, Evento Online. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2020. p. 233-240. ISSN 2763-8944. https://doi.org/10.5753/kdmile.2020.11981
+
+42) POLLETI, G.; SOUZA, D. L.; COZMAN, F. G. Why should I not follow you? Reasons For and Reasons Against in Responsible Recommender Systems. In: 3rd FAccTRec Workshop: Responsible Recommendation, 2020, Rio de Janeiro (Online). Short Papers, 2020.
+
+43) D’ALESSANDRO, L.L.; CORRÊA, P.L.P.; RIZZO, L.V.; PINAYA, J.L.D.; OLIVEIRA, M. Ferramenta e Metodologia Orientada por Níveis de Análise para Visualização de Dados Ambientais . In VI Congress of Industrial Managemente and Aeronautical Technology. (VI CIMATech) 22 a 24 de outubro de 2019, FATEC-SJC, São José dos Campos -SP.
+
+44) MELO, G.; IMAIZUMI, V.; COZMAN, F. G. Winograd Schemas in Portuguese. In: ENCONTRO NACIONAL DE INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL (ENIAC), 16. , 2019, Salvador. Anais do XVI Encontro Nacional de Inteligência Artificial e Computacional. Porto Alegre: Sociedade Brasileira de Computação, oct. 2019 . p. 787-798.
+
+45) R. Monteiro de Aquino and F. Cozman, Natural Language Explanations of Classifier Behavior, 2019 IEEE Second International Conference on Artificial Intelligence and Knowledge Engineering (AIKE), Sardinia, Italy, 2019, pp. 239-242. https://doi.org/10.1109/AIKE.2019.00048
+
+46) Ruschel A., Gusmão A.C., Polleti G.P., Cozman F.G. (2019) Explaining Completions Produced by Embeddings of Knowledge Graphs. In: Kern-Isberner G., Ognjanovi? Z. (eds) Symbolic and Quantitative Approaches to Reasoning with Uncertainty. ECSQARU 2019. Lecture Notes in Computer Science, vol 11726. Springer. https://doi.org/10.1007/978-3-030-29765-7_27
+
+47) Camacho, L.; Faria, J.; Alves-Souza, S. and Filgueiras, L. (2019). Social Tracks: Recommender System for Multiple Individuals using Social Influence. In Proceedings of the 11th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management - Volume 1: KDIR, ISBN 978-989-758-382-7, pages 363-371. https://doi.org/10.5220/0008166503630371
+
+48) POLLETI, G. P.; COZMAN, F. G.; Explaining Content-based Recommendations with Topic Models. Brazilian Conference on Intelligent Systems (BRACIS, Qualis B2), 2019, São Paulo.
+
+49) B. E. NISHIMOTO and A. H. REALI COSTA, Dialogue Management with Deep Reinforcement Learning: Balancing Exploration and Exploitation; 2019 8th Brazilian Conference on Intelligent Systems (BRACIS), Salvador, Brazil, 2019, pp. 449-454, doi: 10.1109/BRACIS.2019.00085.
+
+50) FERREIRA, T.M.; PAIVA, F.C.L.; SILVA, R.F.; PAULA, A.M.; COSTA, A.H.R.; CUGNASCA, C.E. Assessing Regression-Based Sentiment Analysis Techniques in Financial Texts. In: Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2019, Salvador, Brasil.
+
+51) POLLETI, G. P.; COZMAN, F. G.; Faithfully Explaining Predictions of Knowledge Embeddings. Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2019, São Paulo.
+
+52) SILVA, R.F.; MOSTAÇO, G.M.; XAVIER, F.; SARAIVA, A.M.; CUGNASCA, C.E. Comparison of the k-means and self-organizing maps techniques to label agricultural supply chain data. In: Conference of the European Federation for Information Technology in Agriculture, Food and the Environment (EFITA), 2019, Rhodes, Greece.
+
+53) SILVA, R.F.; MOSTAÇO, G.M.; XAVIER, F.; SARAIVA, A.M.; CUGNASCA, C.E. Proposal of an architecture for data integration at agricultural supply chains, considering the implementation of IoT, NoSQL and blockchain technologies. In: Conference of the European Federation for Information Technology in Agriculture, Food and the Environment (EFITA), 2019, Rhodes, Greece
+
+54) MOSTAÇO, G.M.; SILVA, R.F.; CUGNASCA, C.E. Identification of requirements for implementing IoT on the smart beef value chain. In: Conference of the European Federation for Information Technology in Agriculture, Food and the Environment (EFITA), 2019, Rhodes, Greece
+
+55) RODRIGUES, J.O.; MOSTAÇO, G.M.; SILVA, R.F.; BESSAN, G.; CUGNASCA, C.E.; MARTUCCI, M. Towards 5G requirements: performance evaluation of a simulated WSN using SDN technology. In: Conference of the European Federation for Information Technology in Agriculture, Food and the Environment (EFITA), 2019, Rhodes, Greece
+
+56) SILVA, R.F.; MOSTAÇO, G.M.; XAVIER, F.; SARAIVA, A.M.; CUGNASCA, C.E. Use of artificial intelligence on the agroindustrial domain. In: XII Congresso Brasileiro de Agroinformática (SBIAGRO), 2019, Indaiatuba, Brasil.
+
+57) SILVA, R.F.; MOSTAÇO, G.M.; CUGNASCA, C.E. Requirements identification and proposal of a domain model for implementing IoT in the sugar supply chain. In: XII Congresso Brasileiro de Agroinformática (SBIAGRO), 2019, Indaiatuba, Brasil.
+
+58) MARTO, T.; SILVA, R.F.; PAULA, A.M.; COSTA, A.H.R.; CUGNASCA, C.E. Development of a labelled dataset of Brazilian agricultural market news titles for sentiment analysis. In: XII Congresso Brasileiro de Agroinformática (SBIAGRO), 2019, Indaiatuba, Brasil.
+
+59) RODRIGUES, J.O.; MOSTAÇO, G.M.; SILVA, R.F.; BESSAN, G.; CUGNASCA, C.E.; MARTUCCI, M. Distributing the Cloud Towards Autonomous & Resilient 5G Networking. In: 10th International Conference on Information and Communication Technology Convergence (ICTC), 2019, Korea.
+
+60) SILVA, R.F.; SOUZA, A.; XAVIER, F.; GALVANI, E.; MOSTAÇO, G.M.; SARAIVA, A.M.; CUGNASCA, C.E.; ROSS, J. Use of Unsupervised Machine Learning for Sugarcane Crop Suitability Evaluation. In: XX Brazilian Symposium on GeoInformatics (GEOINFO), 2019, São José dos Campos, Brasil.
+

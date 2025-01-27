@@ -1,0 +1,11 @@
+here is a list:
+banana
+apple
+orange
+here is another list
+banana
+banana
+apple
+orange
+garlic
+which item is in the second list that is not in the first? is there any repetition?
